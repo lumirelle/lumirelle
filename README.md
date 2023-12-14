@@ -10,7 +10,7 @@
 
 > 浪漫与科技并无冲突，吾只求能一生尽付诸于热爱之事物。
 
-### My State
+### My GitHub Stats & Most Used Languages
 
 <div align="center">
   <span>  </span>
@@ -20,7 +20,7 @@
   <span>  </span>
 </div>
 
-### My Streak
+### My GitHub Streak
 
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SeagullOddy" />
