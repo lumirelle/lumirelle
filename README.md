@@ -5,7 +5,7 @@
   <a target="_blank" href="https://github.com/SeagullOddy">
     <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSeagullOddy&query=%24.data.totalSubs&suffix=%20followers&logo=github&label=GitHub">
 </a>
-  
+
 </p>
 
 > 浪漫与科技并无冲突，吾只求能一生尽付诸于热爱之事物。
@@ -13,19 +13,23 @@
 ### My State
 
 <div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=SeagullOddy" />
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
-<span>  </span>
+  <span>  </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=SeagullOddy" />
+  <span>  </span>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+  <span>  </span>
 </div>
 
 ### My Streak
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SeagullOddy" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SeagullOddy" />
 </div>
 
 ### My Contribute
 
-<div align="center"><img src="https://raw.githubusercontent.com/SeagullOddy/SeagullOddy/main/assets/github-contribution-grid-snake.svg" ></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
