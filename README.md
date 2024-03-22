@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Preahvihear&pause=1000&color=F77373&center=true&vCenter=true&random=false&width=435&lines=Protect+all+the+beauty!;For+Idrila..." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Della+Respira&pause=1000&color=9c3846&center=true&vCenter=true&random=false&width=435&lines=Please+say+hello+to+seagulls!+OvO" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a target="_blank" href="https://github.com/SeagullOddy">
@@ -8,20 +8,20 @@
 
 </p>
 
-> 浪漫与科技并无冲突，吾只求能一生尽付诸于热爱之事物。
+> 当你接触孤独、了解孤独、接受孤独，你才是真正的长大，“幼稚鬼”。
 
-### My GitHub Stats & Most Used Languages
+### Stats & Most Used Languages
 
 <div align="center">
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=SeagullOddy" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=SeagullOddy&theme=rose" />
   <span>  </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8&theme=rose" />
   <span>  </span>
 </div>
 
-### My GitHub Streak
+### Streak
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SeagullOddy" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SeagullOddy&theme=rose" />
 </div>
