@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Underdog&pause=1000&color=dd6387&center=true&vCenter=true&random=false&width=435&lines=Please+say+hello+to+every+day!+OvO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Underdog&pause=1000&color=dd6387&center=true&vCenter=true&random=false&width=435&lines=Pluck%20the%20day%2C%20don't%20let%20it%20pass%20away!" alt="Typing SVG" />
 </p>
 
 <p align="center">
