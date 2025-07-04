@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Underdog&pause=1000&color=dd6387&center=true&vCenter=true&random=false&width=435&lines=Pluck%20the%20day%2C%20don't%20let%20it%20pass%20away!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Underdog&pause=1000&color=41b883&center=true&vCenter=true&random=false&width=435&lines=Pluck%20the%20day%2C%20don't%20let%20it%20pass%20away!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 <div align="center">
   <span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Lumirelle&theme=dracula" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Lumirelle&theme=vue-dark" />
   </span>
   <span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumirelle&layout=compact&langs_count=8&theme=dracula" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumirelle&layout=compact&langs_count=8&theme=vue-dark" />
   </span>
 </div>
 
 ### Current Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumirelle&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumirelle&theme=vue-dark" />
 </div>
