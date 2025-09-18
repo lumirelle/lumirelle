@@ -24,5 +24,5 @@
 ### Current Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumirelle&theme=ambient-gradient" />
+  <img src="https://streak-stats.demolab.com/?user=lumirelle&theme=ambient-gradient" alt="GitHub Streak" />
 </div>
