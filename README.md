@@ -14,15 +14,15 @@
 
 <div align="center">
   <span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lumirelle&theme=vambient_gradient" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lumirelle&theme=ambient_gradient" />
   </span>
   <span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirelle&layout=compact&langs_count=8&theme=vambient_gradient" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirelle&layout=compact&langs_count=8&theme=ambient_gradient" />
   </span>
 </div>
 
 ### Current Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumirelle&theme=vambient_gradient" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumirelle&theme=ambient-gradient" />
 </div>
