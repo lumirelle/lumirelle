@@ -7,22 +7,3 @@
     <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlumirelle&query=%24.data.totalSubs&suffix=%20followers&logo=github&label=GitHub">
   </a>
 </p>
-
-> "Lumirelle let her book fall shut, the last sunbeam slipping off its cover."
-
-### Stats & Most Used Languages
-
-<div align="center">
-  <span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lumirelle&theme=ambient_gradient" />
-  </span>
-  <span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumirelle&layout=compact&langs_count=8&theme=ambient_gradient" />
-  </span>
-</div>
-
-### Current Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lumirelle&theme=ambient-gradient" alt="GitHub Streak" />
-</div>
