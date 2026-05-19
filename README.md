@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&duration=3000&pause=100&color=FFEE6F&center=true&vCenter=true&multiline=true&width=500&height=100&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;And+life+is+an+inevitable+work+for+everyone.;Please+say+%22love+u%22+to+the+life!" alt="Typing SVG"" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&duration=3000&pause=100&color=FFEE6F&center=true&vCenter=true&multiline=true&width=500&height=100&lines=lines=Simplicity%2C+efficiency%2C+and+high+quality;are+the+keys+to+success." alt="Typing SVG"" alt="Typing SVG" />
 </p>
 
 <p align="center">
